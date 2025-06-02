@@ -65,5 +65,3 @@
 | [Rescue Drones Finland](https://rescuedrones.fi) | Dual-use modular drone systems |
 | [éolane Tallinn](https://eolane.ee) | EMS for drone electronics |
 | [Incap Electronics](https://incapcorp.com) | EMS for aerospace & defence |
-
-
